@@ -1,7 +1,8 @@
-Análise Financeira da NVIDIA (NVDA) 💡
+Análise Financeira da NVIDIA (NVDA) 
+
 Este repositório contém uma análise detalhada do histórico financeiro da NVIDIA Corporation, explorando tendências de preços, retornos, volatilidade e relações com ativos como S&P 500 e petróleo. A análise utiliza bibliotecas poderosas de Python para manipulação de dados e visualização.
 
-🚀 Descrição do Projeto
+ Descrição do Projeto
 O objetivo deste projeto é analisar o desempenho da NVIDIA ao longo do tempo, incluindo:
 
 Visualização do preço de fechamento ajustado.
@@ -31,7 +32,7 @@ Cálculo de volatilidade anualizada.
 
 Correlação entre ativos.
 
-📊 Exemplos de Visualizações
+Exemplos de Visualizações
 1. Preço de Fechamento da NVIDIA
 Gráfico de linha mostrando o preço ajustado da NVIDIA ao longo dos últimos 25 anos, destacando tendências de longo prazo.
 
